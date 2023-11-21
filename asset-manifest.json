@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GustavopRezende/teste.git/static/css/main.dbac6cd4.css",
+    "main.js": "/GustavopRezende/teste.git/static/js/main.a3f33838.js",
+    "static/js/787.57d52ffa.chunk.js": "/GustavopRezende/teste.git/static/js/787.57d52ffa.chunk.js",
+    "static/media/L3.jpeg": "/GustavopRezende/teste.git/static/media/L3.b6a515faf9a25ade78c3.jpeg",
+    "static/media/L2.jpeg": "/GustavopRezende/teste.git/static/media/L2.b8e4e71bae6177650a2f.jpeg",
+    "static/media/—Pngtree—location vector icon_3722521.png": "/GustavopRezende/teste.git/static/media/—Pngtree—location vector icon_3722521.ab9e22519dd4a8a10327.png",
+    "static/media/L1.jpeg": "/GustavopRezende/teste.git/static/media/L1.d6e93c58c05fe47b3a64.jpeg",
+    "index.html": "/GustavopRezende/teste.git/index.html",
+    "main.dbac6cd4.css.map": "/GustavopRezende/teste.git/static/css/main.dbac6cd4.css.map",
+    "main.a3f33838.js.map": "/GustavopRezende/teste.git/static/js/main.a3f33838.js.map",
+    "787.57d52ffa.chunk.js.map": "/GustavopRezende/teste.git/static/js/787.57d52ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbac6cd4.css",
+    "static/js/main.a3f33838.js"
+  ]
+}
