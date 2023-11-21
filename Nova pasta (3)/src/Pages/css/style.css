@@ -1,0 +1,68 @@
+.titulo{
+  background-color: whitesmoke;
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Poppins', sans-serif;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.grid-item {
+  background-color: rgb(255, 255, 255);
+  border: 15px solid whitesmoke;
+  padding: 40px;
+  
+  
+}
+
+.body-detalhado {
+  background-color:rgb(255, 255, 255) ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  margin: 0;
+  padding: 80px;
+  }
+  
+.feed{
+  background-color: whitesmoke;
+  border: 15px solid whitesmoke;
+  padding: 20px;
+  
+  
+}  
+
+.carta-detalhado{
+  background-color: rgb(255, 255, 255);
+
+}
+
+.fundo-detalhado{
+  background-color: rgb(255, 255, 255);
+
+}
+.retorna-btn{
+  background-color:#5f27cd;
+  position:fixed;
+  bottom: 20px;
+  left: 50%;
+  padding: 10px;
+  transform: translateX(-50%);
+  color: white;
+
+}
+
+.leia-mais{
+  background-color:#5f27cd;
+  text-align: fixed;
+  bottom: 30px;
+  padding: 10px;
+  color: white;
+
+}

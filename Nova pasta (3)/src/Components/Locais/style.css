@@ -1,0 +1,30 @@
+.carta {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+   }
+   
+   .carta-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+   }
+   
+   .carta-image img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+.carta-conteudo{
+    text-align: left;
+    font-size: 15px;
+    background-color:#5f27cd;
+    
+}
+
+.titulo-conteudo{
+    color:#5f27cd;
+}
